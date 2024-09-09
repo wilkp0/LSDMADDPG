@@ -1,0 +1,65 @@
+{
+"Building_1": {
+	"File_Name":"Building_1.csv",
+	"Building_Type": "Small Residential",
+	"House": {"Req": 0.006, "c": 1005.4, "THeater": 50, "Tcool": 14, "Mdot": 0.8, "M": 1778.4, "TinIC": 20},
+	"Charger": {"capacity": 50, "efficiency": 1, "charging_rate": 10},
+	"HVAC": {"nominal_power": 5, "technical_efficiency": 1, "t_target_temp": 22}
+},
+"Building_2": {
+	"File_Name":"Building_2.csv",
+	"Building_Type": "Medium Residential",
+	"House": {"Req": 0.005, "c": 1005.4, "THeater": 55, "Tcool": 14, "Mdot": 1.0, "M": 2500, "TinIC": 20},
+	"Charger": {"capacity": 75, "efficiency": 1, "charging_rate": 15},
+	"HVAC": {"nominal_power": 7, "technical_efficiency": 1, "t_target_temp": 22}
+},
+"Building_3": {
+	"File_Name":"Building_1.csv",
+	"Building_Type": "Large Residential",
+	"House": {"Req": 0.004, "c": 1005.4, "THeater": 60, "Tcool": 15, "Mdot": 1.5, "M": 3200, "TinIC": 20},
+	"Charger": {"capacity": 100, "efficiency": 1, "charging_rate": 20},
+	"HVAC": {"nominal_power": 10, "technical_efficiency": 1, "t_target_temp": 22}
+},
+"Building_4": {
+	"File_Name":"Building_1.csv",
+	"Building_Type": "Small Commercial",
+	"House": {"Req": 0.0035, "c": 1005.4, "THeater": 65, "Tcool": 15, "Mdot": 2.0, "M": 4500, "TinIC": 20},
+	"Charger": {"capacity": 120, "efficiency": 1, "charging_rate": 25},
+	"HVAC": {"nominal_power": 15, "technical_efficiency": 1, "t_target_temp": 22}
+},
+"Building_5": {
+	"File_Name":"Building_1.csv",
+	"Building_Type": "Medium Commercial",
+	"House": {"Req": 0.003, "c": 1005.4, "THeater": 70, "Tcool": 16, "Mdot": 2.5, "M": 5500, "TinIC": 20},
+	"Charger": {"capacity": 150, "efficiency": 1, "charging_rate": 30},
+	"HVAC": {"nominal_power": 20, "technical_efficiency": 1, "t_target_temp": 22}
+},
+"Building_6": {
+	"File_Name":"Building_1.csv",
+	"Building_Type": "Large Commercial",
+	"House": {"Req": 0.0025, "c": 1005.4, "THeater": 75, "Tcool": 16, "Mdot": 3.0, "M": 6500, "TinIC": 20},
+	"Charger": {"capacity": 200, "efficiency": 1, "charging_rate": 35},
+	"HVAC": {"nominal_power": 25, "technical_efficiency": 1, "t_target_temp": 22}
+},
+"Building_7": {
+	"File_Name":"Building_1.csv",
+	"Building_Type": "Industrial Facility",
+	"House": {"Req": 0.002, "c": 1005.4, "THeater": 80, "Tcool": 14, "Mdot": 3.5, "M": 7500, "TinIC": 20},
+	"Charger": {"capacity": 250, "efficiency": 1, "charging_rate": 40},
+	"HVAC": {"nominal_power": 30, "technical_efficiency": 1, "t_target_temp": 22}
+},
+"Building_8": {
+	"File_Name":"Building_1.csv",
+	"Building_Type": "Small Business",
+	"House": {"Req": 0.004, "c": 1005.4, "THeater": 65, "Tcool": 15, "Mdot": 1.2, "M": 2800, "TinIC": 20},
+	"Charger": {"capacity": 85, "efficiency": 1, "charging_rate": 18},
+	"HVAC": {"nominal_power": 12, "technical_efficiency": 1, "t_target_temp": 22}
+},
+"Building_9": {
+	"File_Name":"Building_1.csv",
+	"Building_Type": "Luxury Residential",
+	"House": {"Req": 0.0035, "c": 1005.4, "THeater": 55, "Tcool": 15, "Mdot": 1.8, "M": 4000, "TinIC": 20},
+	"Charger": {"capacity": 125, "efficiency": 1, "charging_rate": 22},
+	"HVAC": {"nominal_power": 18, "technical_efficiency": 1, "t_target_temp": 22}
+}
+}
